@@ -7,7 +7,6 @@
 /.vs/
      
 # Visual Studio solutions
-/*.sln
 /*.sdf
 /*.opensdf
 /*.suo
