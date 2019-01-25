@@ -12,10 +12,10 @@
 /*.suo
      
 # Linux Project files
-/*.pro
-/*.kdev4
-/CMakeLists.txt
-/Makefile
+#/*.pro
+#/*.kdev4
+#/CMakeLists.txt
+#/Makefile
      
 # Xcode Project files
-/*.xcodeproj
+#/*.xcodeproj
