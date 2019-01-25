@@ -1,0 +1,3 @@
+C:\Users\planch2\Documents\GameJam-2019\Project\Source\Project\Project.Build.cs
+C:\Users\planch2\Documents\GameJam-2019\Project\Source\Project.Target.cs
+C:\Users\planch2\Documents\GameJam-2019\Project\Source\ProjectEditor.Target.cs
